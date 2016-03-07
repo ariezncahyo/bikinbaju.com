@@ -1,0 +1,5 @@
+file diluar.... itu file index tiap halaman
+
+file didalam folder layout ada 2, animation isinya js sama link ke style, satunya layout, isinya menu
+
+file didalam folder process isinya file yang diinclude ke div isi
